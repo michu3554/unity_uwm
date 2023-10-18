@@ -1,3 +1,1 @@
-# unity_uwm
-
-Michal Sieklicki nr indeksu 163100
+# Michal Sieklicki nr indeksu 163100
